@@ -1,0 +1,26 @@
+Invoice_No,Date,Sales_Rep,Region,Product_Category,Units_Sold,Unit_Price,Total_Amount,Payment_Mode
+INV-1001,2026-09-01,Rajesh Kumar,North,Laptops,5,45000,225000,Bank Transfer
+INV-1002,2026-09-02,Priya Sharma,West,Printers,8,12500,100000,UPI
+INV-1003,2026-09-03,Amit Verma,East,Monitors,12,8500,102000,Credit Card
+INV-1004,2026-09-04,Sneha Nair,South,Keyboards,25,1200,30000,UPI
+INV-1005,2026-09-05,Rajesh Kumar,North,Monitors,6,8500,51000,Cash
+INV-1006,2026-09-06,Vikram Patel,West,Laptops,4,48000,192000,Bank Transfer
+INV-1007,2026-09-07,Amit Verma,East,Printers,5,13000,65000,Credit Card
+INV-1008,2026-09-08,Pooja Singh,North,Accessories,40,650,26000,UPI
+INV-1009,2026-09-09,Sneha Nair,South,Laptops,7,45000,315000,Bank Transfer
+INV-1010,2026-09-10,Vikram Patel,West,Monitors,9,8500,76500,Cash
+INV-1011,2026-09-11,Rajesh Kumar,North,Printers,6,12500,75000,Bank Transfer
+INV-1012,2026-09-12,Priya Sharma,West,Accessories,50,600,30000,UPI
+INV-1013,2026-09-13,Amit Verma,East,Laptops,3,46000,138000,Credit Card
+INV-1014,2026-09-14,Sneha Nair,South,Monitors,10,8400,84000,UPI
+INV-1015,2026-09-15,Pooja Singh,North,Laptops,4,45000,180000,Bank Transfer
+INV-1016,2026-09-16,Vikram Patel,West,Printers,7,12500,87500,Cash
+INV-1017,2026-09-17,Rajesh Kumar,North,Keyboards,30,1150,34500,UPI
+INV-1018,2026-09-18,Priya Sharma,West,Laptops,6,47000,282000,Bank Transfer
+INV-1019,2026-09-19,Amit Verma,East,Accessories,35,700,24500,Cash
+INV-1020,2026-09-20,Sneha Nair,South,Printers,4,12800,51200,Credit Card
+INV-1021,2026-09-21,Pooja Singh,North,Monitors,8,8500,68000,UPI
+INV-1022,2026-09-22,Vikram Patel,West,Keyboards,22,1200,26400,Bank Transfer
+INV-1023,2026-09-23,Rajesh Kumar,North,Accessories,45,650,29250,Cash
+INV-1024,2026-09-24,Amit Verma,East,Monitors,7,8600,60200,Credit Card
+INV-1025,2026-09-25,Sneha Nair,South,Laptops,5,45500,227500,Bank Transfer

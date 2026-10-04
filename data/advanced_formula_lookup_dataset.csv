@@ -1,0 +1,11 @@
+SKU_Code,Product_Name,Category,Supplier_ID,Base_Cost,Retail_MRP,Tier_A_Price,Tier_B_Price,Stock_Qty,Reorder_Point
+SKU-501,ProBook X14 Laptop,Hardware,SUP-91,42000,58000,52200,55100,45,20
+SKU-502,UltraView 27 Monitor,Peripherals,SUP-94,7200,10500,9450,9975,80,30
+SKU-503,SilentType Mech Keyboard,Accessories,SUP-92,950,1800,1530,1620,240,60
+SKU-504,LaserJet Pro Printer,Peripherals,SUP-91,10500,16000,14400,15200,35,15
+SKU-505,Precision Wireless Mouse,Accessories,SUP-92,420,850,722,765,310,100
+SKU-506,Enterprise Server Unit,Hardware,SUP-99,185000,265000,238500,251750,12,5
+SKU-507,SmartHub USB-C Dock,Accessories,SUP-94,2200,3800,3230,3420,115,40
+SKU-508,HighSpeed Wi-Fi Router,Networking,SUP-95,3100,5200,4420,4680,65,25
+SKU-509,Gigabit 24-Port Switch,Networking,SUP-95,8400,13500,11475,12150,28,10
+SKU-510,External 2TB SSD,Peripherals,SUP-94,6200,9400,8178,8648,92,30

@@ -1,0 +1,17 @@
+# Secret Environment Variables & Tokens
+.env
+.env.*
+*.env
+*.token
+*.key
+credentials.json
+
+# Node Modules & Package Manager
+node_modules/
+package-lock.json
+
+# Operating System Files
+.DS_Store
+Thumbs.db
+desktop.ini
+*.log

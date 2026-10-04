@@ -1,0 +1,21 @@
+Emp_ID,Emp_Name,Department,Basic_Salary,HRA,Conveyance,Total_Days,Present_Days,Absent_Days,Leave_Days,Overtime_Hours
+EMP-501,Manoj Tiwari,Accounts,35000,14000,3000,30,26,2,2,8
+EMP-502,Kavita Sen,HR,32000,12800,3000,30,28,0,2,0
+EMP-503,Sunil Joshi,Sales,28000,11200,3000,30,25,3,2,14
+EMP-504,Deepak Rawat,Operations,26000,10400,2500,30,27,1,2,10
+EMP-505,Anjali Mehta,Marketing,40000,16000,3500,30,29,0,1,5
+EMP-506,Vikas Sharma,IT Support,30000,12000,2500,30,24,4,2,12
+EMP-507,Preeti Nair,Accounts,38000,15200,3000,30,28,0,2,4
+EMP-508,Arjun Das,Sales,29000,11600,3000,30,26,2,2,16
+EMP-509,Pooja Bansal,HR,34000,13600,3000,30,27,1,2,0
+EMP-510,Suresh Pillai,Operations,25000,10000,2500,30,23,5,2,6
+EMP-511,Kiran Yadav,Marketing,36000,14400,3500,30,28,0,2,8
+EMP-512,Ramesh Solanki,IT Support,31000,12400,2500,30,26,2,2,10
+EMP-513,Geeta Kadam,Accounts,36000,14400,3000,30,29,0,1,6
+EMP-514,Naveen Jain,Sales,30000,12000,3000,30,25,3,2,18
+EMP-515,Swati Deshmukh,HR,33000,13200,3000,30,28,0,2,2
+EMP-516,Harish Verma,Operations,27000,10800,2500,30,24,4,2,8
+EMP-517,Bhavna Chawla,Marketing,42000,16800,3500,30,30,0,0,12
+EMP-518,Santosh Pandey,IT Support,29000,11600,2500,30,25,3,2,6
+EMP-519,Madhu Sudhan,Sales,28000,11200,3000,30,27,1,2,15
+EMP-520,Rekha Menon,Accounts,39000,15600,3000,30,28,0,2,5
